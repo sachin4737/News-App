@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Shireen Abu Aqla: Christian leaders condemn violence at reporter's funeral",
+    "description": "Christian leaders in Jerusalem accuse Israel of violating an agreement to uphold religious freedom.",
+    "url": "http://www.bbc.co.uk/news/world-middle-east-61463886",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1100E/production/_124764696_mediaitem124764695.jpg",
+    "publishedAt": "2022-05-16T19:07:24.9461875Z",
+    "content": "By Tom BatemanBBC Middle East Correspondent, Jerusalem\r\nImage caption, Israel's police force has said it is investigating the actions of its officers at the funeral\r\nThe Vatican's representative in J… [+4665 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Somalia: President Biden reverses Trump's withdrawal of US troops",
+    "description": "It reverses a decision by his predecessor Donald Trump to withdraw some 700 troops from the country.",
+    "url": "http://www.bbc.co.uk/news/world-africa-61467478",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12656/production/_115805357_gettyimages-51350988.jpg",
+    "publishedAt": "2022-05-16T18:37:26.4925847Z",
+    "content": "Image source, Getty Images\r\nImage caption, The Trump administration's decision to withdraw troops caused deep concern\r\nUS officials say President Biden has approved the redeployment of US troops in S… [+1532 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Buffalo shooting: Black Americans describe grief and fear",
+    "description": "Ten people were killed in Saturday's attack - described by Buffalo's police chief as a racist hate crime.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-61462939",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12774/production/_124763657_gettyimages-1397457047-2.jpg",
+    "publishedAt": "2022-05-16T18:37:21.6895989Z",
+    "content": "By Nada TawfikBBC News, Buffalo\r\nImage source, Getty Images\r\nImage caption, Mourners gathered outside the supermarket\r\nThe rainy, grey weather in Buffalo certainly suited the mood on the ground on Mo… [+4542 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Wagatha Christie: Celebrity soccer wives' feud spills into court",
+    "description": "It's a drama involving two footballers' wives and an apparent Instagram sting worthy of the CIA.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-55023833",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/957C/production/_115586283_vardy976.jpg",
+    "publishedAt": "2022-05-16T17:22:19.6988336Z",
+    "content": "By Holly HonderichBBC News, Washington\r\nImage source, Getty Images\r\nImage caption, Football wife Rebekah Vardy is at the heart of Britain's biggest (Instagram) scandal\r\nForget The Crown. The only Bri… [+5387 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Johnny Depp hit me on honeymoon, says Amber Heard",
+    "description": "The actress has testified against her ex-husband as his lawyers were due to cross-examine her.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-61467766",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C753/production/_124772015_gettyimages-1240707492.jpg",
+    "publishedAt": "2022-05-16T15:52:22.6956129Z",
+    "content": "By Bernd Debusmann JrBBC News, Washington\r\nImage source, Getty Images\r\nImage caption, Amber Heard in court on 16 May\r\nAmber Heard feared her ex-husband Johnny Depp would accidentally kill her during … [+2752 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Matriarch accused of leading drug clan captured",
+    "description": "US prosecutors accuse Herlinda Bobadilla, 61, of smuggling tonnes of cocaine from Honduras to the US.",
+    "url": "http://www.bbc.co.uk/news/world-latin-america-61464573",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/97BE/production/_124764883_mediaitem124764882.jpg",
+    "publishedAt": "2022-05-16T14:07:20.4305732Z",
+    "content": "By Vanessa BuschschlüterBBC News\r\nImage caption, Herlinda Bobadilla, 61, was arrested after a shoot-out in the mountains of Honduras\r\nPolice in Honduras have captured a woman accused of leading a dru… [+3439 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "McDonald's to leave Russia for good after 30 years",
+    "description": "The chain opened in Moscow in 1990 as the Soviet Union was opening its economy to Western brands.",
+    "url": "http://www.bbc.co.uk/news/business-61463876",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FA92/production/_124764146_gettyimages-1239044343.jpg",
+    "publishedAt": "2022-05-16T11:52:18.8840665Z",
+    "content": "Image source, Getty Images\r\nMcDonald's has said it will permanently leave Russia after 30 years and has started to sell its restaurants there. \r\nThe fast food giant said it made the decision because … [+2522 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "North Korea: More than a million Covid cases feared",
+    "description": "The military has been ordered to intervene as a wave of Covid cases sweeps the unvaccinated country.",
+    "url": "http://www.bbc.co.uk/news/world-asia-61436270",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/377A/production/_124720241_gettyimages-1239283405.jpg",
+    "publishedAt": "2022-05-16T05:07:24.7583664Z",
+    "content": "Image source, Getty Images\r\nImage caption, Employees spray disinfectant and wipe surfaces in North Korea's capital, Pyongyang\r\nNorth Korea's leader Kim Jong-un has lambasted health officials and orde… [+2374 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ukraine latest news: Ukraine could win the war - Nato chief",
+    "description": "Jens Stoltenberg says Russia's invasion is not going to plan as attempts to capture Donbas have stalled.",
+    "url": "http://www.bbc.co.uk/news/live/world-europe-61461805",
+    "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.2.0/bbc_news_logo.png",
+    "publishedAt": "2022-05-16T05:07:23.8679632Z",
+    "content": "In other Nato news, some of the biggest ever drills in the history of the Baltics by the military alliance are due to begin later today. It's codenamed Hedgehog.\r\nThe exercises will take place in Est… [+508 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Full lunar eclipse creates rare super blood Moon",
+    "description": "Its hue was created by sunlight being projected through the Earth's atmosphere onto the Moon.",
+    "url": "http://www.bbc.co.uk/news/world-61461082",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/80E3/production/_124759923_tv076037519.jpg",
+    "publishedAt": "2022-05-16T04:37:19.9620368Z",
+    "content": "Image caption, The Moon turned a deep shade of copper-like red as it passed through the Earth's shadow\r\nStargazers have been treated overnight to a stunning and unusual sight - a super blood Moon.\r\nS… [+1673 chars]"
+    }
+    ]
+    }
